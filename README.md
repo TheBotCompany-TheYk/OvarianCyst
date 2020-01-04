@@ -1,2 +1,2 @@
 # OvarianCyst
-Detecting and Extraction of Ovarian Cyst
+Detecting and Feature Extraction of Ovarian Cyst  
